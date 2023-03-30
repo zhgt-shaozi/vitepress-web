@@ -1,0 +1,13 @@
+/* 拓展默认主题样式 */
+
+:root {
+  /* 默认主题 */
+  /* --vp-home-hero-name-color: blue; */
+
+  /* 拓展主题 */
+}
+
+a.cta:hover {
+  border-color: #316334;
+  background-color: #f8f8f8;
+}
